@@ -18,14 +18,14 @@ Follow these steps to set up and run the Spring Boot application with TypeScript
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
-   cd your-repo
+   gh repo clone vikascreate/SpringBoot_TypeScript_React_FullStack
+   cd SpringBoot_TypeScript_React_FullStack
    ```
 
 2. Navigate to the `frontend` directory:
 
    ```bash
-   cd ChatRoom
+   cd Chatroom
    ```
 
 3. Install the frontend dependencies:
@@ -75,7 +75,7 @@ If you want to work on the frontend and make changes, you can run the developmen
 1. Navigate to the `frontend` directory:
 
    ```bash
-   cd ChatRoom
+   cd Chatroom
    ```
 
 2. Start the development server:
@@ -96,6 +96,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Contact
 
-If you have any questions or issues, feel free to contact us at [your.email@example.com](mailto:your.email@example.com).
+If you have any questions or issues, feel free to contact us at [vikaskumarsingh2018@example.com](mailto:vikaskumarsingh2018@example.com).
 
 Happy coding!
